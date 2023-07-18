@@ -3,3 +3,5 @@ Dockerfile
 testing/
 node_modules/
 package-lock.json
+covarage/
+database/
