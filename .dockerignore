@@ -1,0 +1,5 @@
+.dockerignore
+Dockerfile
+testing/
+node_modules/
+package-lock.json
